@@ -1,6 +1,6 @@
 # Hi 👋, I'm owl_d
 
-![](https://github.com/owl-nosleep/owl-nosleep/blob/master/Introduction.gif?raw=true)
+![](https://github.com/owl-nosleep/owl-nosleep/raw/master/Introduction.gif?raw=true)
 
 ### Cybersecurity Researcher | CTF Player | Windows Vulnerbilities
 
