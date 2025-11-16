@@ -2,7 +2,6 @@
 
 ### Cybersecurity Researcher | CTF Player | Windows Vulnerbilities
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owl-nosleep&label=Profile views&color=0e75b6&style=flat" alt="owl-nosleep" /> </p>
 
 - 🔭 I'm currently working on **Insonmia-C2**
 
